@@ -1,0 +1,160 @@
+{
+	"nav": [
+		{
+			"name": "home",
+			"href": "/",
+			"icon": "fa-gear",
+			"icon2": "rpg-roll",
+			"icon3": "rpg-battle"
+		},
+		{
+			"name": "map",
+			"href": "/map",
+			"icon": "fa-map",
+			"icon2": "rpg-book",
+			"icon3": "rpg-map1"
+		},
+		{
+			"name": "bar",
+			"href": "/bar",
+			"icon": "fa-bar",
+			"icon2": "rpg-potion",
+			"icon3": "rpg-items"
+		},
+		{
+			"name": "user",
+			"href": "/user",
+			"icon": "fa-user",
+			"icon2": "rpg-knight",
+			"icon3": "rpg-arena"
+		},
+		{
+			"name": "gear",
+			"href": "/gear",
+			"icon": "fa-home",
+			"icon2": "rpg-helmet",
+			"icon3": "rpg-hero"
+		},
+		{
+			"name": "info",
+			"href": "/info",
+			"icon": "fa-info",
+			"icon2": "rpg-armor",
+			"icon3": "rpg-start"
+		}
+	],
+	"icons": [
+		{
+			"name": "roll",
+			"href": "/roll",
+			"icon": "rpg-roll",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "book",
+			"href": "/book",
+			"icon": "rpg-book",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "potion",
+			"href": "/potion",
+			"icon": "rpg-potion",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "knight",
+			"href": "/knight",
+			"icon": "rpg-knight",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "helmet",
+			"href": "/helmet",
+			"icon": "rpg-helmet",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "armor",
+			"href": "/armor",
+			"icon": "rpg-armor",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "map",
+			"href": "/map",
+			"icon": "rpg-map",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "sword",
+			"href": "/sword",
+			"icon": "rpg-sword",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "settings",
+			"href": "/settings",
+			"icon": "rpg-settings",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "battle",
+			"href": "/battle",
+			"icon": "rpg-battle",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "map1",
+			"href": "/map1",
+			"icon": "rpg-map1",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "items",
+			"href": "/items",
+			"icon": "rpg-items",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "arena",
+			"href": "/arena",
+			"icon": "rpg-arena",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "hero",
+			"href": "/hero",
+			"icon": "rpg-hero",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "start",
+			"href": "/start",
+			"icon": "rpg-start",
+			"icon2": null,
+			"icon3": null
+		},
+		{
+			"name": "tower",
+			"href": "/tower",
+			"icon": "rpg-tower",
+			"icon2": null,
+			"icon3": null
+		}
+	]
+}

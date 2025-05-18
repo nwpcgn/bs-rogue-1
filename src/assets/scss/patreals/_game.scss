@@ -90,3 +90,8 @@
 .page > .page-area {
 	padding: 6rem 2rem;
 }
+
+.grid-center {
+	display: grid;
+	place-content: center;
+}
